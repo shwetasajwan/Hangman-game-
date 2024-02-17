@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1683413607 source:c:\users\king\desktop\2\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<Windows.h>
+	<conio.h>
+	<bits/stdc++.h>
+
+1683413607 source:e:\bha\2\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<Windows.h>
+	<conio.h>
+	<bits/stdc++.h>
+
